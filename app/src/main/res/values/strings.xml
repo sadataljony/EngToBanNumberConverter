@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">English to Bengali Number Converter</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="convert">Convert</string>
+</resources>
